@@ -1,0 +1,2 @@
+- [Project Week2 Repo](https://github.com/tuncerm/HackYourWeather/tree/week2)
+- [Project Week2 Netlify](https://pedantic-morse-f490c8.netlify.com/)
